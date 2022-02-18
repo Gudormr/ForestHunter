@@ -1,0 +1,8 @@
+﻿  ForestHunter.cpp
+  Character.cpp
+e:\eddie's c++ code\foresthuntergame\foresthunter\character.cpp(226): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  stdafx.cpp
+  Generating Code...
+e:\eddie's c++ code\foresthuntergame\foresthunter\character.cpp(196): warning C4715: 'Enemy::randomRank': not all control paths return a value
+e:\eddie's c++ code\foresthuntergame\foresthunter\character.cpp(215): warning C4715: 'Enemy::randomName': not all control paths return a value
+  ForestHunter.vcxproj -> E:\Eddie's C++ Code\ForestHunterGame\ForestHunter\Debug\ForestHunter.exe
