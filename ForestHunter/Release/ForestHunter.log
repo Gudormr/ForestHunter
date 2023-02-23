@@ -1,8 +1,0 @@
-﻿  Character.cpp
-f:\test060619\test060619\character.cpp(226): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  Generating code
-  1 of 263 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  test060619.vcxproj -> F:\test060619\Release\test060619.exe
